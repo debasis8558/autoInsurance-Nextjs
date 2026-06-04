@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ed17e89b-0461-4a3c-88f9-ad860f12cafa/resourceGroups/GainscoDemo/providers/Microsoft.Web/sites/NextJs",
+    "appService.deploySubpath": "."
+}
